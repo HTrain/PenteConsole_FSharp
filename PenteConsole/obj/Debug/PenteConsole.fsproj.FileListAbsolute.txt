@@ -1,0 +1,8 @@
+C:\Users\Heron\Development\PenteConsole\PenteConsole\bin\Debug\PenteConsole.exe.config
+C:\Users\Heron\Development\PenteConsole\PenteConsole\bin\Debug\PenteConsole.XML
+C:\Users\Heron\Development\PenteConsole\PenteConsole\bin\Debug\PenteConsole.exe
+C:\Users\Heron\Development\PenteConsole\PenteConsole\bin\Debug\PenteConsole.pdb
+C:\Users\Heron\Development\PenteConsole\PenteConsole\bin\Debug\FSharp.Core.dll
+C:\Users\Heron\Development\PenteConsole\PenteConsole\bin\Debug\FSharp.Core.xml
+C:\Users\Heron\Development\PenteConsole\PenteConsole\obj\Debug\PenteConsole.exe
+C:\Users\Heron\Development\PenteConsole\PenteConsole\obj\Debug\PenteConsole.pdb
